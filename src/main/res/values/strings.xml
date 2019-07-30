@@ -1,0 +1,7 @@
+<resources>
+   <string name="app_name">Sender</string>
+    <string name="word">input name: </string>
+    <string name="hint">name</string>
+    <string name="post">send data</string>
+    <string name="browser">browser</string>
+</resources>

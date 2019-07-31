@@ -15,6 +15,8 @@ androidアプリを通してサーバーとの通信を行うシステムの開�
 android studioで「Sender」という名前の新規プロジェク卜を作成する。
 そのプロジェクトの中の「src」を本ページに乗せてある「src」ファイルに置き換えると、サーバーに接続することができるアプリのプロジェクトが完成する。
 プログラムはjavaで作成しており、
+$ src/main/java/com/example/sender/
+の中にある「MainActivity.java」と「UploadTask.java」で細かい記載を行っている。
 完成したプロジェクトをビルドし、開発者モードに設定したandroidスマートフォンにデバックモードでインストールをする。
 
 サーバーには本サイトに乗せてある「PHP」というフォルダの中にあるphpファイルを置いておく。
@@ -22,3 +24,6 @@ android studioで「Sender」という名前の新規プロジェク卜を作成
 
 http://androidweb.php.xdomain.jp/show.php
 上記のURLに飛ぶことでデータサーバーに保存された角度データを閲覧することができる。
+
+
+本ページの「android_system.mp4」で実際に動作している様子を確認して下さい。
